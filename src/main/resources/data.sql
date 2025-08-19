@@ -1,0 +1,15 @@
+INSERT INTO person (id, name, age) VALUES (1, 'Alice', 22);
+INSERT INTO person (id, name, age) VALUES (2, 'Bob', 16);
+INSERT INTO person (id, name, age) VALUES (3, 'Charlie', 30);
+INSERT INTO person (id, name, age) VALUES (4, 'Diana', 18);
+INSERT INTO person (id, name, age) VALUES (5, 'Eve', 12);
+INSERT INTO person (id, name, age) VALUES (6, 'Frank', 45);
+INSERT INTO person (id, name, age) VALUES (7, 'Grace', 27);
+INSERT INTO person (id, name, age) VALUES (8, 'Hank', 35);
+INSERT INTO person (id, name, age) VALUES (9, 'Ivy', 19);
+INSERT INTO person (id, name, age) VALUES (10, 'Jack', 60);
+INSERT INTO person (id, name, age) VALUES (11, 'Karen', 14);
+INSERT INTO person (id, name, age) VALUES (12, 'Leo', 21);
+INSERT INTO person (id, name, age) VALUES (13, 'Mona', 33);
+INSERT INTO person (id, name, age) VALUES (14, 'Nina', 25);
+INSERT INTO person (id, name, age) VALUES (15, 'Oscar', 40);
